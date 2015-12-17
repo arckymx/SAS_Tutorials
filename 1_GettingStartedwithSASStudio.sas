@@ -7,8 +7,8 @@
 * Examine filter function
 * Examine the SQL codes that can be generated;
 
-
-
+ 
+ 
 
 /*--Printing data--*/
 proc print data=sashelp.cars;
