@@ -42,5 +42,5 @@ data highcol;
 	where Chol_Status="High";
 run;
 
-proc print dataa=highcol;
+proc print data=highcol;
 run;
